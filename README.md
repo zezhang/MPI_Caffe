@@ -18,6 +18,6 @@
 /include/caffe/vision_layers.hpp:
 		Change the data structure. 
 
-#There are also lots of minor changes in other files
+There are also lots of minor changes in other files
 
 #Add tons of "std::cout" or "LOG(INFO)" in order to understand how does the caffe work
