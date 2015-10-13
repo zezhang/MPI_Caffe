@@ -1,10 +1,10 @@
 #Major Changes in the following files:
 
 
-/tools/caffe.cpp:\n
-		Initialize the MPI environment\n
-		Update the nerual network after each iteration\n
-		Forward & Backward computation for other nodes\n
+/tools/caffe.cpp:
+		Initialize the MPI environment
+		Update the nerual network after each iteration
+		Forward & Backward computation for other nodes
 
 /src/caffe/net.cpp:
 		Change some parameters
