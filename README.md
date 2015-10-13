@@ -1,6 +1,6 @@
-# MPI_Caffe
+#Major Changes in the following files:
 
-Major Changes in the following files:
+
 /tools/caffe.cpp:
 		Initialize the MPI environment
 		Update the nerual network after each iteration
