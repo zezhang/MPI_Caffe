@@ -13,10 +13,10 @@
 		Add functions for updating the nerual network. 
 
 /src/caffe/layers/conv_layer.cpp:
-		Change the forward & backward computation by applying MPI functions. 
+		Change the forward & backward functions by applying MPI functions. 
 
 /include/caffe/vision_layers.hpp:
-		Change the data structure for using MPI funcion. 
+		Change the data structure. 
 
 #There are also lots of minor changes in other files
 
