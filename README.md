@@ -3,14 +3,14 @@
 
 /tools/caffe.cpp:
 		Initialize the MPI environment. 
-		Update the nerual network after each iteration. 
+		Update the neural network after each iteration. 
 		Forward & Backward computation for other nodes. 
 
 /src/caffe/net.cpp:
 		Change some parameters. 
 
 /src/caffe/solver.cpp:
-		Add functions for updating the nerual network. 
+		Add functions for updating the neural network. 
 
 /src/caffe/layers/conv_layer.cpp:
 		Change the forward & backward functions by applying MPI functions. 
