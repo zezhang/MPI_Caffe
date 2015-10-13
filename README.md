@@ -16,7 +16,7 @@
 		Change the forward & backward computation by applying MPI functions. 
 
 /include/caffe/vision_layers.hpp:
-		Change the data structure to suit MPI funcion. 
+		Change the data structure for using MPI funcion. 
 
 #There are also lots of minor changes in others files
 
